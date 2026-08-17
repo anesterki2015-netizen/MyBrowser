@@ -1,5 +1,5 @@
+![MyBrowser](https://github.com/anesterki2015-netizen/MyBrowser/raw/main/MyBrowser-Social-Preview.jpg)
 # MyBrowser
-
 **MyBrowser** is a simple, fast desktop web browser built with **Electron**.
 
 ## Download
